@@ -1,0 +1,1 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut

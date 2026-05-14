@@ -1,0 +1,1 @@
+#Gene_accession	TypeGene	Mutation ID	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Class	Phenotype	PMID	Mechanism of resistance	Notes	Required mutation	% abundance mutation required
