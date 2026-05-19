@@ -6,9 +6,9 @@ chromosomal point mutations.
 
 ## Content of the repository
 - [x] Add *Mycobacterium abscessus* db
-- [x] Add *Mycobacterium avium* db
+- [ ] Add *Mycobacterium avium* db
 - [ ] Add *Mycobacterium fortuitum* db
-- [ ] Add *Mycobacterium kansasii* db
+- [x] Add *Mycobacterium kansasii* db
 
 ## Installation
 Clone the database
@@ -122,7 +122,7 @@ The file is a text file in tab separated format. The first line starts with a #,
 | Resistance   | Comma separated list of antibiotics                                                                               |
 | PMID         | Comma separated list of pubmed IDs describing the mutation                                                        |
 | Mechanism    | Description of the resistance mechanism                                                                           |
-| Notes        | Text with other information                                                                                       |
+| Notes        | Includes the determinant evidence quality assignment and other textual informatiion                               |
 | Required_mut | Other mutations needed in order to gain resistance (see below for more details)                                   |
 
 ### Required_mut format
