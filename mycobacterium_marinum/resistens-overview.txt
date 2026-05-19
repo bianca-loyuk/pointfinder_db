@@ -1,0 +1,16 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut
+MMAR_gyrA	gyrA	91	GCG	A	A	Ofloxacin, Ciprofloxacin, Levofloxacin, Sparfloxacin, Pefloxacin, Nalidixic acid, Flumequine		Altered GyrA QRDR residue decreases quinolone susceptibility	Moderate
+MMAR_grcC1	grcC1	132	GCG	A	V	Linezolid		Reduced cell wall permeability and altered glycolipid composition	High
+MMAR_1007_MmpR	MMAR_1007	99	GCC	A	V	Bedaquiline		Putative efflux derepression via MmpR homolog disruption	Moderate
+MMAR_1007_MmpR	MMAR_1007	394	C	C	T	Bedaquiline		Truncation of efflux regulator	Moderate
+MMAR_1007_MmpR	MMAR_1007	41	GGC	G	D	Bedaquiline		Putative efflux derepression	Moderate
+MMAR_1007_MmpR	MMAR_1007	100	TTC	F	V	Bedaquiline		Putative efflux derepression	Moderate
+MMAR_1007_MmpR	MMAR_1007	135	CGC	R	H	Bedaquiline		Putative efflux derepression	Moderate
+MMAR_1007_MmpR	MMAR_1007	57	GCG	A	E	Bedaquiline		Putative efflux derepression	Moderate
+MMAR_1007_MmpR	MMAR_1007	72	CGG	R	L	Bedaquiline		Putative efflux derepression	Moderate
+MMAR_4093_atpB	atpB	171	ATC	I	L	Bedaquiline		Altered ATP synthase target	Moderate
+MMAR_1007_MmpR	MMAR_1007	90	CGC	R	P	Bedaquiline		Putative efflux derepression via MmpR homolog disruption	Moderate
+MMAR_4049_YrbE3A	YrbE3A-1	188	GGC	G	D	Bedaquiline		Putative ABC transporter/permease-associated resistance	Moderate
+#Indels
+#Gene_id	Gene_name	Nuc_pos	-	Mut_type	Insert/deletion	Drug	Pmid	Mechanism	Notes
+MMAR_1007_MmpR	MMAR_1007	370	-	del	G	Bedaquiline		Frameshift disruption of efflux regulator	Moderate
