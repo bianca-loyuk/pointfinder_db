@@ -1,4 +1,0 @@
-gyrA
-gyrB
-rrl
-rrs
