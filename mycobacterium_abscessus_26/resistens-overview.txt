@@ -1,0 +1,430 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut
+MABS_atpE	atpE	29	GAC	D	V	Bedaquiline	MABS_MAB_3820c	Reduced BDQ binding to ATP synthase c subunit through steric interference	High	
+MABS_atpE	atpE	64	GCG	A	P	Bedaquiline	MABS_rplC	Reduced BDQ binding to ATP synthase c subunit through steric interference	High	
+MABS_atpE	atpE	29	GAC	D	V	Bedaquiline	MABS_MAB_2299c	Mutant AtpE overexpression insufficient to titrate BDQ	Moderate	
+MABS_atpE	atpE	64	GCG	A	P	Bedaquiline	MABS_fadD32	Mutant AtpE overexpression insufficient to titrate BDQ	Moderate	
+MABS_atpE	atpE	72	T	T	C	Bedaquiline	MABS_MAB_2303	Synonymous mutation with no amino acid alteration	Moderate	
+MABS_atpE	atpE	105	T	T	C	Bedaquiline	MABS_MAB_2885	Synonymous mutation with no amino acid alteration	Moderate	
+MABS_atpE	atpE	72	T	T	C	Bedaquiline	MABS_MAB_0540	Synonymous mutation with no amino acid alteration	Moderate	
+MABS_atpE	atpE	105	T	T	C	Bedaquiline	MABS_MAB_4537c	Synonymous mutation with no amino acid alteration	Moderate	
+MABS_atpE	atpE	29	GAC	D	A	Bedaquiline	MABS_mmpl4	Altered ATP synthase subunit C reducing bedaquiline binding	Moderate	
+MABS_atpE	atpE	64	GCG	A	P	Bedaquiline	MABS_MAB_3928c_grcC1_homologue	Altered ATP synthase subunit C reducing bedaquiline binding	Moderate	
+MABS_MAB_2875_bla	bla	15	GTC	V	A	Imipenem	MABS_rpsL	Beta-lactamase alteration potentially associated with carbapenem resistance	Moderate	
+MABS_MAB_2875_bla	bla	116	ACC	T	N	Imipenem	MABS_rplD.fsa	Beta-lactamase alteration potentially associated with carbapenem resistance	Moderate	
+MABS_MAB_2875_bla	bla	268	ACA	T	A	Imipenem	MABS_MAB_0364c	Beta-lactamase alteration potentially associated with carbapenem resistance	Moderate	
+MABS_MAB_2875_bla	bla	6	GCA	A	T	Imipenem/relebactam	MABS_atpE	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	26	GGC	G	D	Imipenem/relebactam	MABS_MAB_3513c_nudC	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	36	GCC	A	T	Imipenem/relebactam	MABS_MAB_4384	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	86	CTG	L	Q	Imipenem/relebactam	MABS_MAB_0382_glpK	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	201	CGG	R	G	Imipenem/relebactam	MABS_MAB_4230c_fgd	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	268	ACA	T	A	Imipenem/relebactam	MABS_MAB_3607_cofD	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_2875_bla	bla	283	GTG	V	A	Imipenem/relebactam	MABS_MAB_0505c	Altered β-lactamase potentially reducing relebactam inhibition	Moderate	
+MABS_MAB_3289_cofC	cofC	190	GAC	D	E	HC2210	MABS_MAB_3509c	Altered CofC impairs F420 biosynthesis and HC2210 activation	Moderate	
+MABS_MAB_1319_cofGH	cofGH	1801	C	C	T	HC2210	MABS_MAB_4099c_mps1	Truncation of CofGH abolishes F420 biosynthesis	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin; Azithromycin	MABS_MAB_4901c_ponA1	functional erm(41) ribosomal methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin; Azithromycin	MABS_MAB_1319_cofGH	functional erm(41) ribosomal methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin; Azithromycin	MABS_MAB_3289_cofC	Restores functional inducible erm(41)-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin	MABS_whib7	Restores inducible macrolide resistance through functional erm(41)	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin;Azithromycin	MABS_gyrB	Inducible macrolide resistance mediated by erm methylase	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin	MABS_gyrA	Functional erm methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin	MABS_MAB_2875_bla	Nonfunctional erm methylase associated with clarithromycin susceptibility	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin	MABS_MAB_2648c_marR	Functional erm methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin	MABS_MAB_1881c	Disruption of functional erm(41) methylase associated with macrolide susceptibility	Moderate	
+MABS_erm41	erm(41)	120	A	A	G	Clarithromycin	MABS_nucS	Silent mutation in erm(41)	Moderate	
+MABS_erm41	erm(41)	159	T	T	C	Clarithromycin	MABS_rplV	Silent mutation in erm(41)	Moderate	
+MABS_erm41	erm(41)	238	A	A	G	Clarithromycin		Silent mutation in erm(41)	Moderate	
+MABS_erm41	erm(41)	255	C	C	A	Clarithromycin		Silent mutation in erm(41)	Moderate	
+MABS_erm41	erm(41)	330	A	A	C	Clarithromycin		Silent mutation in erm(41)	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Inactivation of erm(41) methylase preventing inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; Azithromycin		Inducible ribosomal methylase-mediated macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin; Azithromycin		Nonfunctional Erm41 methylase associated with loss of inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin		Intact inducible Erm41 methylase-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Trp10Arg substitution causing loss of erm(41) function	High	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of erm(41) methyltransferase function resulting in loss of inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41) methyltransferase mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		T28C decreases inducible clarithromycin resistance through reduced erm(41) activity	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41) mediates inducible clarithromycin resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional Erm(41) methyltransferase mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of functional Erm(41)-mediated inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible Erm(41) methylase activity abolishes inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41) mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional or altered erm(41) reduces inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional Erm(41) methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional Erm(41) methylase mediating inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41)-mediated macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) associated with loss of inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Inducible erm(41)-mediated macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional methyltransferase abolishing inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin		Functional erm-mediated inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; Azithromycin		Loss of inducible erm-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41)-mediated macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible ribosomal methylase-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible ribosomal methylase-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Azithromycin		Functional erm(41)-mediated inducible macrolide resistance with accelerated intrinsic resistance accumulation	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss-of-function erm(41) polymorphism abolishing inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Point mutation associated with nonfunctional inducible resistance methylase	High	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41) mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) abolishes inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) abolishes inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41) mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41) mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) associated with clarithromycin susceptibility	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41) mediates inducible macrolide resistance	Low	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Reduced inducible erm(41) methylase activity	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible erm(41) methylase mediating macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Azithromycin; Capreomycin		Functional erm(41)-mediated inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Azithromycin; Capreomycin		Non-mutated erm(41) associated with susceptibility	Low	
+MABS_erm41	erm(41)	10	C	C	T	Azithromycin; Capreomycin		Functional erm(41)-mediated inducible macrolide resistance	Low	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible 23S rRNA methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; Azithromycin		Nonfunctional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin		Functional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41)-mediated macrolide resistance	Moderate	
+MABS_erm41	erm(41)	238	A	A	G	Clarithromycin		Did not disrupt inducible erm(41)-mediated resistance	Moderate	
+MABS_erm41	erm(41)	419	C	C	T	Clarithromycin		Did not abolish inducible erm(41)-mediated resistance	Low	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible erm(41) methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Inducible ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible ribosomal methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible methylase function	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41) function	Moderate	
+MABS_erm41	erm(41)	159	T	T	C	Clarithromycin		Unknown contribution; linked with susceptible haplotype	Moderate	
+MABS_erm41	erm(41)	238	A	A	G	Clarithromycin		Unknown contribution; linked with susceptible haplotype	Moderate	
+MABS_erm41	erm(41)	330	A	A	C	Clarithromycin		Unknown contribution; linked with susceptible haplotype	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional inducible ribosomal methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41) activity	Moderate	
+MABS_erm41	erm(41)	80	ATA	I	V	Clarithromycin		Unknown/epistatic effect with erm(41) 28T	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41) function	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm(41)-mediated inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	TGG	W	R	Clarithromycin		Loss of functional erm(41)-mediated inducible resistance	Moderate	
+MABS_erm41	erm(41)	80	ATA	I	V	Clarithromycin		Potential modulation of erm(41)-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41)-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Restoration of functional erm(41) methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41)-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Azithromycin; Clarithromycin		Restoration of functional erm(41)-mediated inducible ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Nonfunctional erm(41) associated with susceptibility	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Intact erm(41) mediates inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Nonfunctional erm(41) associated with CLA susceptibility	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41) T28 genotype associated with inducible CLA resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) genotype identified in inducibly resistant isolate	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; azithromycin		Loss of inducible erm-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; azithromycin		Nonfunctional erm methyltransferase leading to loss of inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm(41) abolishing inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm-mediated resistance	Moderate	
+MABS_erm41	erm(41)	19	C	C	T	Clarithromycin		Suppression of inducible erm-mediated resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm methylase mediating inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm methylase leading to loss of inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	T	Clarithromycin		Functional erm methylase mediating inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm methyltransferase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Nonfunctional erm methyltransferase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Inducible ribosomal methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	C,T	Clarithromycin; Azithromycin		Functional erm(41)-mediated methylase induction	Moderate	
+MABS_erm41	erm(41)	10	T	T	C,T	Clarithromycin; Azithromycin		Functional erm(41)-mediated methylase induction	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin		Functional erm(41)-mediated ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin; Azithromycin		Non-functional erm(41) with absent inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional ribosomal methylase mediating inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Non-functional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Non-functional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin; Roxithromycin; Erythromycin		Functional erm methylase causing inducible macrolide resistance	Low	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin; Azithromycin; Roxithromycin; Erythromycin		Non-functional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm methylase causing inducible macrolide resistance	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Non-functional erm methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin; Azithromycin		Functional ribosomal methylase mediating inducible macrolide resistance	Low	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin; Azithromycin		Loss of Erm(41) methylase activity	Moderate	
+MABS_erm41	erm(41)	34	TTC	F	L	Clarithromycin; Azithromycin		Presumed inactivation of Erm(41) methylase	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional Erm41 methylase	High	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of Erm41 activity	Low	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of functional inducible erm(41)-mediated ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	199	C	C	T	Clarithromycin		Truncation/inactivation of erm(41)	Moderate	
+MABS_erm41	erm(41)	158	G	G	A	Clarithromycin		Associated with absence of inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41) functionality	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated inducible methylation	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of functional inducible erm(41) activity	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible macrolide resistance due to nonfunctional erm(41)	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional Erm(41) methyltransferase modifies 23S rRNA	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional Erm(41)-mediated inducible ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	C	C	C	Clarithromycin		Nonfunctional Erm(41) causing lack of inducible resistance	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of functional inducible erm(41)-mediated ribosomal methylation	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated methylation of 23S rRNA	Moderate	
+MABS_erm41	erm(41)	10	T	T	C	Clarithromycin		Loss of inducible erm(41) methylase function	Moderate	
+MABS_erm41	erm(41)	10	T	T	T	Clarithromycin		Functional erm(41)-mediated inducible methylation	Moderate	
+MABS_fadD32	fadD32	294	CAT	H	Y	Linezolid		Altered cell wall permeability via FadD32	Moderate	
+MABS_MAB_0382_glpK	glpK	414	GAT	D	V	HC2210		Altered glycerol metabolism reduces compound potency	Moderate	
+MABS_MAB_0382_glpK	glpK	319	C	C	T	HC2210		Loss of glycerol kinase activity reduces susceptibility	Moderate	
+MABS_MAB_3928c_grcC1_homologue	grcC1	125	GCC	A	V	Linezolid; Vancomycin; Rifampicin; Moxifloxacin; Clofazimine		Reduced cell wall permeability and altered glycolipid polarity	Low	
+MABS_gyrA	gyrA	92	TCG	S	A	Ofloxacin; Ciprofloxacin; Levofloxacin; Sparfloxacin; Pefloxacin; Nalidixic acid; Flumequine		Altered GyrA QRDR residue decreases quinolone susceptibility	Moderate	
+MABS_gyrA	gyrA	92	GCG	A	V	Ciprofloxacin; Moxifloxacin		DNA gyrase target alteration reducing quinolone binding	Low	
+MABS_gyrA	gyrA	96	GAC	D	N	Ciprofloxacin; Moxifloxacin		DNA gyrase target alteration reducing quinolone binding	Low	
+MABS_gyrA	gyrA	96	GAC	D	N	Ciprofloxacin; Moxifloxacin		DNA gyrase target alteration reducing quinolone binding	Moderate	
+MABS_gyrA	gyrA								Unconfirmed	
+MABS_gyrA	gyrA							Putative gyrase alteration associated with ciprofloxacin resistance	Low	
+MABS_gyrA	gyrA	92	GCG	A	V	Ciprofloxacin		Altered DNA gyrase quinolone binding	Moderate	
+MABS_gyrA	gyrA	92	GCG	A	S	Ciprofloxacin; Ofloxacin; Levofloxacin; Sparfloxacin; Moxifloxacin		Reduced quinolone binding affinity	Moderate	
+MABS_gyrB	gyrB	492	CGC	R	C	Ciprofloxacin; Moxifloxacin		DNA gyrase B target alteration reducing quinolone binding	Low	
+MABS_gyrB	gyrB							Promoter-region alteration associated with fluoroquinolone resistance	Moderate	
+MABS_gyrB	gyrB							Promoter-region alteration associated with fluoroquinolone resistance	Moderate	
+MABS_gyrB	gyrB	482	CGC	R	K	Ciprofloxacin; Ofloxacin; Levofloxacin; Sparfloxacin; Moxifloxacin		Altered gyrase-quinolone interaction	Moderate	
+MABS_gyrB	gyrB	499	AAC	N	S	Ciprofloxacin; Ofloxacin; Levofloxacin; Sparfloxacin; Moxifloxacin		Altered gyrase-drug interaction	Moderate	
+MABS_MAB_0205c	MAB_0205c	124	G	G	C	Durlobactam		Unknown hypothetical protein-associated mechanism	Moderate	
+MABS_MAB_0364c	MAB_0364c	335	T	T	T	NA		Mutation in ATPase-like gene associated with adaptation to low oxygen and persistence	Unconfirmed	
+MABS_MAB_0505c	MAB_0505c	608	T	T	C	Durlobactam		Unknown hypothetical protein-associated mechanism	Low	
+MABS_MAB_0540	MAB_0540							Multiple missense mutations proposed to contribute to CFZ resistance	Moderate	
+MABS_MAB_1881c	MAB_1881c	296	G	G	A	Clarithromycin		Truncation of TetR-family regulator potentially affecting clarithromycin resistance	Unconfirmed	
+MABS_MAB_2299c	MAB_2299c	40	TTG	L	W	Clofazimine; Bedaquiline		Loss of TetR repression causing MmpS/MmpL efflux upregulation	Low	
+MABS_MAB_2299c	MAB_2299c	541	G	G	T	Clofazimine; Bedaquiline		Loss of TetR repression causing MmpS/MmpL efflux upregulation	Low	
+MABS_MAB_2299c	MAB_2299c	151	CTT	L	P	Clofazimine; Bedaquiline		Loss of TetR repression causing MmpS/MmpL efflux upregulation	Low	
+MABS_MAB_2299c	MAB_2299c	215	GGC	G	S	Clofazimine; Bedaquiline		Loss of TetR repression causing MmpS/MmpL efflux upregulation	Low	
+MABS_MAB_2303	MAB_2303	838	CAC	H	Y	Tedizolid		Altered MmpL efflux transporter	Moderate	
+MAB_2885	MAB_2885	91	TGG	W	R	Tedizolid; Linezolid		Impaired TetR DNA binding causing efflux pump derepression	Moderate	
+MAB_2885	MAB_2885	43	GAC	D	N	Tedizolid; Linezolid		Loss of repression of MmpS-MmpL efflux operon	Moderate	
+MABS_MAB_4384	MAB_4384	178	GCC	A	S	Bedaquiline		Derepression of MmpS5/MmpL5 efflux pump	Low	
+MABS_MAB_4384	MAB_4384	16	CAT	H	R	Bedaquiline		Derepression of MmpS5/MmpL5 efflux pump	Low	
+MABS_MAB_4384	MAB_4384	151	GAA	E	K	Bedaquiline		Derepression of MmpS5/MmpL5 efflux pump	Low	
+MABS_MAB_4384	MAB_4384	224	CAA	Q	R	Bedaquiline		Likely neutral polymorphism	Moderate	
+MABS_MAB_2648c_marR	marR	131	CGC	R	C	Nitroxoline		Altered MarR regulator derepresses MmpS5-MmpL5 efflux pump	High	
+MABS_mmpl4	mmpL4	726	CCC	P	L	Imipenem		Potential GPL transport and envelope alteration	Moderate	
+MABS_mmpl4	mmpL4							Potential GPL transport and envelope alteration	Moderate	
+MABS_nucS	nucS	74	ACC	T	I	Clarithromycin; Amikacin		Diminished mismatch repair activity increases transition mutation frequency	Moderate	
+MABS_nucS	nucS	15	CGG	R	W	Clarithromycin; Amikacin		Strong reduction in mismatch repair activity	Low	
+MABS_nucS	nucS	62	GAA	E	G	Clarithromycin; Amikacin		Diminished mismatch repair activity	Low	
+MABS_nucS	nucS	64	GGC	G	A	Clarithromycin; Amikacin		Minimal effect on mismatch repair	Low	
+MABS_nucS	nucS	141	CCG	P	S	Clarithromycin; Amikacin		Diminished mismatch repair activity	Low	
+MABS_MAB_3513c_nudC	nudC	226	CCG	P	Q	Isoniazid		Disrupted NudC dimerization and catalytic activity	Low	
+MABS_MAB_3513c_nudC	nudC	133	GAC	D	A	Isoniazid		Impaired NudC catalytic activity	Low	
+MABS_MAB_3513c_nudC	nudC	148	AAC	N	D	Isoniazid		Loss of enzymatic activity	Low	
+MABS_MAB_3513c_nudC	nudC	156	TTT	F	A	Isoniazid		Reduced catalytic function	Low	
+MABS_MAB_3513c_nudC	nudC	193	TTC	F	A	Isoniazid		Loss of optimal catalytic function	Low	
+MABS_MAB_3513c_nudC	nudC	207	GAG	E	Q	Isoniazid		Reduced enzymatic activity	Low	
+MABS_MAB_3513c_nudC	nudC	211	GAA	E	Q	Isoniazid		Impaired catalytic activity	Low	
+MABS_MAB_3513c_nudC	nudC	231	CGG	R	Q	Isoniazid		Reduced catalytic activity and resistance	Low	
+MABS_MAB_4901c_ponA1	ponA1	1156	C	C	T	Durlobactam		Loss-of-function of PonA1 alters peptidoglycan synthesis and confers agar-dependent durlobactam resistance	Low	
+MABS_MAB_4901c_ponA1	ponA1	2027	G	G	T	Durlobactam		Altered PonA1 potentially reducing lethal DUR interaction	Low	
+MABS_MAB_4901c_ponA1	ponA1	1333	C	C	T	Durlobactam		Loss-of-function of PonA1 alters peptidoglycan synthesis and confers agar-dependent durlobactam resistance	Moderate	
+MABS_rplC	rplC	424	T	T	C	Linezolid		Altered ribosomal protein L3 affecting drug binding	Moderate	
+MABS_rplD	rplD	177	GCC	A	P	Linezolid		Proposed ribosomal protein L4 alteration potentially affecting oxazolidinone interaction	Moderate	
+MABS_rplD	rplD							rplD mutations identified in linezolid-resistant isolate	Moderate	
+MABS_rplV	rplV	284	G	G	C	Clarithromycin		Disrupts interaction between RplV loop and hairpin loops 35/49	Moderate	
+MABS_rpoB	rpoB							Altered rifamycin target binding	Moderate	
+MABS_rpsL	rpsL	43	AAG	K	R	Streptomycin		Altered ribosomal S12 protein reduces streptomycin binding	Moderate	
+MABS_rpsL	rpsL	43	AAG	K	N	Streptomycin		Altered ribosomal S12 protein reduces streptomycin binding	Moderate	
+MABS_rpsL	rpsL	88	AAG	K	R	Streptomycin		Altered ribosomal S12 protein reduces streptomycin binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin; Azithromycin		Alters macrolide binding pocket in 23S rRNA peptidyl transferase center	Moderate	
+MABS_rrl	rrl	841	G	G	T	Clarithromycin; Azithromycin		Potentially alters loop configuration near NPET entrance	Moderate	
+MABS_rrl	rrl	841	A	A	G	Clarithromycin; Azithromycin		Potentially alters loop configuration near NPET entrance	Moderate	
+MABS_rrl	rrl	843	A	A	T	Clarithromycin; Azithromycin		Alters domain II loop adjacent to PTC	Moderate	
+MABS_rrl	rrl	1831	C	C	T	Clarithromycin; Azithromycin		May disrupt interaction between hairpin loops 35 and 49	Moderate	
+MABS_rrl	rrl	2825	T	T	C	Clarithromycin; Azithromycin		Disrupts T2823-A2269 base pair adjacent to canonical resistance locus	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		High-level acquired macrolide resistance via 23S rRNA alteration	Moderate	
+MABS_rrl	rrl	2131	T	T	C	Linezolid		Potential alteration of ribosomal target site	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA peptidyltransferase domain affecting macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA peptidyltransferase domain affecting macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target modification	Low	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA target modification	High	
+MABS_rrl	rrl	2273	A	A	T	Clarithromycin		23S rRNA target modification	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target modification	Low	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin		23S rRNA target modification	Low	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		23S rRNA target modification	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Alteration of 23S rRNA macrolide binding pocket causing constitutive resistance	Moderate	
+MABS_rrl	rrl	2273	A	A		Clarithromycin		Alteration of 23S rRNA macrolide binding pocket causing constitutive resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region causing macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region causing macrolide resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region causing macrolide resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region causing inducible/acquired macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA reduces macrolide binding	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyltransferase drug-binding site reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyltransferase drug-binding site reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyltransferase drug-binding site reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C,G	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C,G	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C,G	Clarithromycin		23S rRNA target alteration reducing macrolide binding despite nonfunctional erm(41)	Moderate	
+MABS_rrl	rrl	2273	A	A	C,G	Clarithromycin		23S rRNA target alteration reducing macrolide binding despite nonfunctional erm(41)	Moderate	
+MABS_rrl	rrl	2272	A	A	G,C,T	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G,C,T	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G,C,T	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G,C,T	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		23S rRNA target alteration reducing macrolide binding	Low	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low	
+MABS_rrl	rrl	2271	A	A	T	Clarithromycin		23S rRNA alteration associated with acquired clarithromycin resistance in erm(41)-truncated background	Low	
+MABS_rrl	rrl	2271	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low	
+MABS_rrl	rrl	2271	A	A	G	Clarithromycin		23S rRNA alteration associated with acquired resistance in truncated erm(41) background	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		23S rRNA alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low	
+MABS_rrl	rrl	744	C	C	T	Linezolid		Potential 23S rRNA-mediated linezolid resistance	Moderate	
+MABS_rrl	rrl	1719	A	A	G	Linezolid		Uncertain association with linezolid susceptibility	Moderate	
+MABS_rrl	rrl	3044	C	C	T	Linezolid		Uncertain association with linezolid susceptibility	Moderate	
+MABS_rrl	rrl							23S rRNA target modification	Moderate	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin		23S rRNA target modification reducing macrolide binding	Moderate	
+MABS_rrl	rrl							23S rRNA target modification reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2271	A	A	G	Linezolid		Potential alteration near oxazolidinone ribosomal binding site	Moderate	
+MABS_rrl	rrl	2652	T	T	C	Linezolid		Potential 23S rRNA alteration with unclear functional significance	Moderate	
+MABS_rrl	rrl	1916	G	G	A	Linezolid		Potential ribosomal RNA alteration	Moderate	
+MABS_rrl	rrl	2584	G	G	C	Linezolid		Potential ribosomal RNA alteration	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA peptidyl transferase region preventing macrolide binding	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Mutation alters 23S rRNA macrolide binding site causing acquired resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target modification causing constitutive macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA target alteration prevents macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target alteration reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA alteration reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin; Azithromycin		Altered 23S rRNA macrolide binding pocket	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin; Azithromycin		Altered 23S rRNA macrolide binding pocket	Moderate	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin; Azithromycin		Altered 23S rRNA macrolide binding pocket	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin; Azithromycin		Altered 23S rRNA macrolide binding pocket	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA drug-binding pocket reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA drug-binding pocket reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA drug-binding pocket reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin		Altered 23S rRNA drug-binding pocket reduces macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin; Macrolides		Ribosomal target alteration	Unconfirmed	
+MABS_rrl	rrl	2271	A	A	G	Clarithromycin		Ribosomal target alteration	Moderate	
+MABS_rrl	rrl	2271	A	A	C	Clarithromycin		Ribosomal target alteration	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA drug binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA drug binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered 23S rRNA drug binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA drug binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA drug binding	Moderate	
+MABS_rrl	rrl							Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl							Altered 23S rRNA drug interaction	Unconfirmed	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	N	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	N	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA mutation conferring macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA mutation conferring macrolide resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Low	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA mutation causing high-level CLA resistance	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA mutation associated with acquired clarithromycin resistance	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA mutation associated with acquired clarithromycin resistance	Moderate	
+MABS_rrl	rrl	2752	C	C	T	Clarithromycin		New rrl mutation detected in clarithromycin-resistant isolate	Moderate	
+MABS_rrl	rrl							Constitutive macrolide resistance via altered ribosome	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Reduced macrolide-ribosome binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered ribosomal drug binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide binding site	Moderate	
+MABS_rrl	rrl	2667	A	A	T	Tedizolid		Putative ribosomal target alteration	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		23S rRNA target-site modification	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA target-site modification	Moderate	
+MABS_rrl	rrl	2271	A	A	G	Clarithromycin		23S rRNA target-site modification	Moderate	
+MABS_rrl	rrl							Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl							Putative altered ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate	
+MABS_rrl	rrl	2246	G	g	T	Linezolid		Altered 23S rRNA linezolid binding	Low	
+MABS_rrl	rrl	2790	G	g	T	Linezolid		Altered ribosomal target binding	Low	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin; Azithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2271	A	A	G	Clarithromycin		Altered 23S rRNA macrolide target	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin; Azithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2272	A	A	T	Clarithromycin; Azithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin; Azithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin; Azithromycin; Roxithromycin; Erythromycin		Altered 23S rRNA reducing macrolide binding	Low	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA reducing macrolide binding	Moderate	
+MABS_rrl	rrl	2661	G	G	T	Linezolid		Reduced linezolid binding to peptidyl transferase center	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide target	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide target	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered 23S rRNA macrolide target	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered macrolide binding site in 23S rRNA	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered ribosomal macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Reduced macrolide-ribosome interaction	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Reduced clarithromycin binding to ribosome	Moderate	
+MABS_rrl	rrl							23S rRNA target modification	Moderate	
+MABS_rrl	rrl							Altered ribosomal linezolid binding site	Unconfirmed	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2273	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate	
+MABS_rrl	rrl	2272	A	A	G	Clarithromycin		Altered 23S rRNA drug-binding pocket	Moderate	
+MABS_rrl	rrl	2272	A	A	C	Clarithromycin		Altered 23S rRNA drug-binding pocket	Moderate	
+MABS_rrl	rrl	2273	A	A	G	Clarithromycin		Altered 23S rRNA drug-binding pocket	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA alteration causing acquired amikacin resistance	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding site reducing amikacin binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA reducing aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1382	A	A	G	Kanamycin		Altered 16S rRNA reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1382	A	A	G	Tobramycin		Altered 16S rRNA reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1382	A	A	G	Gentamicin		Altered 16S rRNA reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Alteration of 16S rRNA causing reduced aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Reduced aminoglycoside binding to 16S rRNA	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA target alteration reducing aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA target alteration reducing aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA target modification causing high-level aminoglycoside resistance	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA modification reducing aminoglycoside binding	Low	
+MABS_rrs	rrs	1380	T	T	A	Amikacin; Gentamicin; Tobramycin; Kanamycin		16S rRNA target modification reducing aminoglycoside binding	Low	
+MABS_rrs	rrs	1382	A	A	G	Amikacin; Gentamicin; Tobramycin; Kanamycin		16S rRNA target modification reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1383	C	C	T	Amikacin; Gentamicin; Tobramycin; Kanamycin		16S rRNA target modification reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1464	G	G	T	Amikacin; Gentamicin; Tobramycin; Kanamycin		16S rRNA target modification reducing aminoglycoside binding	High	
+MABS_rrs	rrs	1471	T	T	A	Amikacin; Gentamicin; Tobramycin; Kanamycin		16S rRNA target modification reducing aminoglycoside binding	Low	
+MABS_rrs	rrs	1380	T	T	A	Kanamycin; Amikacin; Gentamicin; Tobramycin		Altered 16S rRNA decoding site reduces aminoglycoside binding	Low	
+MABS_rrs	rrs	1382	A	A	G	Kanamycin; Amikacin; Gentamicin; Tobramycin		Altered aminoglycoside-binding site in 16S rRNA prevents drug interaction	Moderate	
+MABS_rrs	rrs	1383	C	C	T	Kanamycin; Amikacin; Gentamicin; Tobramycin		Mutation alters ribosomal aminoglycoside interaction site	Moderate	
+MABS_rrs	rrs	1465	G	G	T	Kanamycin; Amikacin; Gentamicin; Tobramycin		Mutation disrupts aminoglycoside interaction within ribosomal decoding region	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA modification decreases aminoglycoside binding	Moderate	
+MABS_rrs	rrs	491	C	C	T	Streptomycin		Altered 16S rRNA reduces streptomycin binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered aminoglycoside binding site in 16S rRNA	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Reduced aminoglycoside binding to 16S rRNA	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin; Aminoglycosides		Ribosomal target alteration	Unconfirmed	
+MABS_rrs	rrs	1329	G	G	A	Amikacin; Aminoglycosides		Ribosomal target alteration	Unconfirmed	
+MABS_rrs	rrs	1382	A	A	G	Amikacin; Aminoglycosides		Ribosomal target alteration	Unconfirmed	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA aminoglycoside binding-site alteration	Low	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA aminoglycoside binding-site alteration	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		16S rRNA mutation conferring high-level amikacin resistance	Moderate	
+MABS_rrs	rrs	1383	C	C	T	Amikacin		16S rRNA mutation conferring high-level amikacin resistance	Low	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered aminoglycoside ribosomal binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin; Kanamycin; Gentamicin		Reduced aminoglycoside binding to 16S rRNA	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered aminoglycoside binding to 16S rRNA	Moderate	
+MABS_rrs	rrs	1472	T	T	A	Amikacin		Potential altered aminoglycoside binding site	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered aminoglycoside binding site	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Reduced aminoglycoside binding to ribosome	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding	Moderate	
+MABS_rrs	rrs	1382	A	A	G	Amikacin		Altered aminoglycoside binding to 16S rRNA	Moderate	
+MABS_whib7	whiB7							Potential regulatory alteration of inducible resistance pathway	Moderate	
+MABS_whib8	whiB7	198	T	T	G	Clarithromycin		Potential transcriptional modulation of erm-associated resistance	Moderate	
+MABS_whib9	whiB7							Loss of WhiB7-dependent induction of erm(41)	Low	
