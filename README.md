@@ -11,6 +11,7 @@ chromosomal point mutations.
 - [x] Add *Mycobacterium kansasii* db
 - [x] Add *Mycobacterium marinum* db
 - [x] Add *Mycobacterium intracellulare* db
+- [x] Add *Mycobacterium chelonae* db
 
 ## Installation
 Clone the database
