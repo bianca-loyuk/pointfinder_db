@@ -1,0 +1,10 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut
+MCHE_rrs	rrs	1382	A	A	G	Amikacin		Altered 16S rRNA reducing aminoglycoside binding	Moderate
+MCHE_rrs	rrs	1382	A	A	G	Tobramycin		Altered 16S rRNA reducing aminoglycoside binding	Moderate
+MCHE_gyrA	gyrA	92	TCG	S	A	Ofloxacin, Ciprofloxacin, Levofloxacin, Sparfloxacin, Pefloxacin, Nalidixic acid, Flumequine		Altered GyrA QRDR residue decreases quinolone susceptibility	Moderate
+MCHE_rrl	rrl	2274	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low
+MCHE_rrl	rrl	2273	A	A	C	Clarithromycin		23S rRNA target alteration prevents macrolide binding	Moderate
+MCHE_rrl	rrl	2273	A	A	G	Clarithromycin		23S rRNA target alteration reduces macrolide binding	Moderate
+MCHE_rrl	rrl	2274	A	A	C	Clarithromycin		23S rRNA modification impairs macrolide binding	Moderate
+MCHE_rrl	rrl	2273	A	A	G	Clarithromycin		Altered macrolide target binding	Moderate
+MCHE_rrl	rrl	2274	A	A	G	Clarithromycin		Macrolide target modification	Moderate

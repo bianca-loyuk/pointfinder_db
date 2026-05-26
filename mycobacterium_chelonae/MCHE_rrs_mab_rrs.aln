@@ -1,0 +1,146 @@
+CLUSTAL W 2.0 multiple sequence alignment
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      ATGACCGACACAACGCTGCCCCCCGGCGGTGACGACGCCGTCGACCGGATCGAGCCGGTAGACATCCAGC 70
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TGTTTGGAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGA 70
+                                                                                                     ** *    * * *   *    *  **   *                *   *  ** *   * * 
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AGGAGATGCAGCGCAGCTACATCGATTACGCCATGAGCGTCATCGTGGGCCGCGCCCTGCCTGAAGTGCG 140
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  AAGGCCCTTCGGGGTACTCGAGTGGCGAACGGGTGAGTAACACGTGGGTGATCTGCCCTGCACTCTGGGA 140
+                                                                                               * *       * *   **  *  *   *     ****   **    **    *  **   *      *  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CGACGGCCTTAAGCCCGTGCACCGTCGCGTCCTCTACGCGATGTACGACTCCGGGTTCCGGCCCGACCGC 210
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TAAGCCTGGGAAACTGGGTCTAATACCGGATAGGACCACACACTTCATGGTGAGTGGTGCAAAGCTTTTG 210
+                                                                                                 *       ** *  *  *     *  *       * *    * *       *                
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AGCCACGCCAAGTCGGCGCGCTCGGTAGCCGAGACCATGGGTAACTACCACCCGCACGGCGACTCGTCGA 280
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  CGGTGTGGGATGAGCCCGCGGCCTATCAGCTTGTTGGTGGGGTAATGGCCCACCAAGGCGACGACGGGTA 280
+                                                                                                *    *  * *    ****  *  *   *  *    ****  * *  * * *  * *      **   *
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TCTACGACACCTTGGTGCGTATGGCGCAGCCATGGTCGCTGCGCTACCCACTGGTGGACGGCCAGGGAAA 350
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GCCGGCCTGAGAGGGTGACCGGCCACACTGGGACTGAGATACGGCCCAGACTCCTACGGGAGGCAGCAGT 350
+                                                                                                *           ****                    * * **   *  ***  *    *     * *  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CTTCGGCTCGCCGGGTAACGACCCCGCCGCCGCCATGCGTTACACCGAGGCCAGGCTGACACCGCTGGCC 420
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GGGGAATATTGCACAATGGGCGCAAGCCTGATGCAGCGACGCCGCGTGAGGGATGACGGCCTTCGGGTTG 420
+                                                                                                          *       *  *  ***     **       * *    *  * *  * *      *   
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      ATGGAAATGCTGCGTGAAATCGACGAGGAAACAGTCGATTTCAGCCCGAACTACGACGGCCGGGTCATGG 490
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TAAACCTCTTTCAGTAGGGACGAAGCGAAAGTGACGGTACCTACAGAAGAAGGACCGGCCAACTACGTGC 490
+                                                                                                         *  **     *** * * **      *     *      *       * *     * ** 
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AGCCGACCGTGCTGCCGAGCCGGTTCCCCAACCTGCTCGCCAACGGCAGCGGCGGTATCGCCGTCGGTAT 560
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  CAGCAGCCGCGGTAATACGTAGGGTCCGAGCGTTGTCCGGAATTACTGGGCGTAAAGAGCTCGTAGGTGG 560
+                                                                                                  *  *** * *     *  ** ***      **  **  *      *  *         *** ***  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGCCACCAACATGCCGCCGCACAACCTGCGTGAGTTGGCTGAGGCCGTCTACTGGGCACTGGATAACCAC 630
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TTTGTCGCGTTGTTCGTGAAAACTCACAGCTTAACTGTGGGCGTGCGGGCGATACGGGCAGACTAGAGTA 630
+                                                                                                    *        **    *   *     * *  **   * *  **     *  *  * *  **     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GAGGCCGACGAGGAGACCACCCTCAAGGCGGTCTGCGAGAGGATCAGCGGTCCCGATTTCCCGACATCCG 700
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  CTGCAGGGGAGACTGGAATTCCTGGTGTAGCGGTGGAATGCGCAGATATCAGGAGGAACACCGGTGGCGA 700
+                                                                                                 *   *       *     ***   *  *   **  *   *   *        *     ***    *  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GTTTGATTGTTGGGACACAAGGGATTCACGACGCCTACACCACCGGACGCGGCTCCATCCGCATGCGCGG 770
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  AGGCGGGTCTCTGGGCAGTAACTGACGCTGAGGAGCGAAAGCGTGGGTAGCGAACAGGATTAGATACCCT 770
+                                                                                                   *  * *  ** **  *         ** *     *     **     *  *            *  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TGTGGCTGAAATCGAGGAAGACTCCAAGGGCAGAACGTCTTTGGTGATCACCGAGTTGCCGTACCAGGTC 840
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GGTAGTCCACGCCGTAAACGGTGGGTACTAGGTGTGGGTTTCCTTCCTTGGGATCCGTGCCGTAGCTAAC 840
+                                                                                                ** *   *   **   * *      *         *  **   *  *           *         *
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AATCACGACAACTTCATCACTTCGATCGCCGAGCAGGTGCGCGACGGAAAGATCGCCGGCATCTCCAACA 910
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GCATTAAGTACCCCGCCTGGGGAGTACGGTCGCAAGACTAAAACTCAAAGGAATTGACGGGGGCCCGCAC 910
+                                                                                                        * *           *  **      **           ** **      *     **    
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TCGAAGACCAGAGCTCCGACCGTGTCGGCCTGCGAATCGTGGTGGTGCTCAAGCGTGATGCCGTTGCCAA 980
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  AAGCGGCGGAGCATGTGGATTAATTCGATGCAACGCGAAGAACCTTACCTGGGTTTGACATGCGCAGGAC 980
+                                                                                                 *  *   **      **     ***                  * *    *  ***          * 
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGTGGTGCTGAACAACCTCTACAAGCACACCCAGCTGCAGACCAGCTTCGGCGCCAACATGCTCTCGATC 1050
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GTATCTAGAGATAGGTATTCCCTTGTGGCCTGCGTGCAGGTGGTGCATGGCTGTCGTCAGCTCGTGTCGT 1050
+                                                                                               *    *   **      *   *  *    *   *     *    ** * *  * *  **     *     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GTCGACGGCGTACCCCGCACCTTGCGCCTGGACCAGCTGATCCGGCACTACGTCAATCACCAGTTGGACG 1120
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GAGATGTTGGGTTAAGTCCCGCAACGAGCGCAACCCTTGTCCTATGTTGCCAGCGGGTAATGCCGGGGAC 1120
+                                                                                               *        *       * *    **   * * *   **  *        *  *    *      **   
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TCATCATCCGGCGTACCCGGTACCGGTTGCGCAAGGCCAACGAGCGTGCACACATCTTGCGCGGTTTGGT 1190
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TCGTAGGAGACTGCCGGGGTCAACTCGGAGGAAGGTGGGGATGACGTCAAGTCATCATGCCCCTTATGTC 1190
+                                                                                               ** *        *     *  * *      * * *         ***  *  **** *** *  * **  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CAAAGCCCTTGACGCCCTTGACGAAGTGATCGCGTTGATCCGTGCTTCGCAGACTGTCGATATCGCCCGG 1260
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  CAGGGCTTCACACATGCTACAATGGCCAGTACAGAGGGCTGCGAAGCCGCAAGGTGGAGCGAATCCCTTA 1260
+                                                                                               **  **     **   **  *        *   *  *          ****   **  *  *   **   
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CAGGGCCTTATCGAGCTGCTCGACGTCGACGAGATTCAGGCCCAGGCCATCCTCGACATGCAGCTGCGCC 1330
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  AAGCTGGTCTCAGTTCGGATTGGGGTCTGCAACTCGACCCCATGAAGTCGGAGTCGCTAGTAATCGCAGA 1330
+                                                                                                **    *    *  * * * *  ***  * *        *               *  * *   **   
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GCCTGGCGGCCCTCGAGCGGCAGAAGATCGTCGAGGATCTCGCCAAGATCGAGGCCGAGATCGCCGACCT 1400
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  TCAGCAACGCTGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCGTCACGTCATGAAAGTCGGTAA 1400
+                                                                                                *      **    * *     *      * *   *  * * **       * * *  **  * **    
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGAAGACATCCTGGCCAAGCCGGAGCGTCAGCGTGCCATCGTCAAGGACGAACTCGCCGAGATCACCGAG 1470
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  CACCCGAAGCCAGTGGCCTAACCTTTTGGAGGGAGCTGTCGAAGGTGGGATCGGCGATTGGGACGAAGTC 1470
+                                                                                                      * ** *                ** * **  ***     *       **    *  *   *  
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AAGTACGGCGACGATCGCCGCACGCGCATCATCTCCGCCGACGGCGATGTCGCCGACGAAGACCTCATCG 1540
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  GTAACAAGGTAGCCGTACCGGAAGGTGCGGCTGGATCACCTCCTTT------------------------ 1540
+                                                                                                      *  *      *** * *       *      *  *                            
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CACGCGAGGACGTCGTCGTCACCATCACCGAAACCGGATATGCCAAGCGCACCAAGACCGACCTGTATCG 1610
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1610
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CAGCCAGAAGCGCGGCGGTAAGGGCGTGCAAGGTGCGGGCCTGAAGCAGGACGACATCGTCAAGCACTTC 1680
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1680
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TTCGTGTGCTCGACGCATGACTGGATCCTGTTCTTCACCACCAAGGGTCGCGTCTACCGGGCCAAGGCGT 1750
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1750
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      ACGACCTGCCCGAGGCGGCTCGTACTGCGCGGGGCCAGCACGTTGCCAACCTGCTGGCCTTCCAGCCGGA 1820
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1820
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGAGCGCATCGCCCAGGTCATCCAGATCAAGGGTTATGAGGACGCGCCTTACCTGGTGCTGGCCACCAAG 1890
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1890
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      AACGGTCTGGTGAAGAAGTCCAAGCTCACCGACTTCGATTCCAACCGCAGCGGCGGCCTGGTGGCAGTCA 1960
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 1960
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      ACCTGCGTGACGGCGACGAATTGGTGGGCGCGGTGCTGTGCGCCGCCGAGGACGATCTGCTGCTGGTGTC 2030
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2030
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGCGCACGGCCAGTCCATCCGGTTCAGCGCGACCGACGAGGCGTTGCGGCCGATGGGCCGCGCTACCTCG 2100
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2100
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GGTGTGCAGGGCATGCGGTTCAACGGGGAGGACGAGCTGTTGTCGCTCAATGTCGTCCGCGAGGGCACCT 2170
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2170
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      ACCTGCTGGTGGCGACGTCGGGCGGCTACTCCAAGCGCACCGCGATCGAGGAGTACCCGGTGCAGGGCCG 2240
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2240
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      TGGCGGTAAGGGCGTGCTGACGGTTCAGTACGACCCGCGCCGGGGTTCTCTGGTGGGTGCACTCATCGTG 2310
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2310
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GACGAGGACGCCGAGCTCTACGCCATCACGTCCGGCGGCGGCGTCATCCGCACCATCTCGAAACAGGTTC 2380
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2380
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      GTAAGGCCGGTCGCCAGACCAAGGGCGTGCGGTTGATGAATCTCGGCGAGGGCGACACCCTATTGGCAAT 2450
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------------- 2450
+                                                                                                                                                                     
+
+NZ_CP007220.1:20407-22920_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome      CGCGCATAATGCCGATGAGGGTGATGCTGACCCTGACGACGACACAGCCAGCGCAAGCGAGTAA 2514
+NZ_CP007220.1:1429570-1431085_Mycobacteroides_chelonae_CCUG_47445_chromosome,_complete_genome  ---------------------------------------------------------------- 2514
+                                                                                                                                                               
+
