@@ -1,0 +1,56 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut
+MIN_rrl	rrl	2268	A	A	T	Clarithromycin		Alteration of 23S rRNA peptidyl transferase center reduces macrolide binding	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		Alteration of 23S rRNA reduces macrolide binding	Moderate	
+MIN_rrl	rrl	2269	A	A	G	Clarithromycin		Alteration of 23S rRNA reduces macrolide binding	Moderate	
+MIN_rrs	rrs	1397	A	A	G	Amikacin,Capreomycin		Alteration of 16S rRNA drug-binding site reduces aminoglycoside binding	Moderate	
+MIN_rrs	rrs	1398	C	C	T	Amikacin,Capreomycin		Alteration of 16S rRNA drug-binding site reduces aminoglycoside binding	Moderate	
+MIN_rrs	rrs	1454	T	T	A	Amikacin		Proposed alteration of 16S rRNA associated with high-level amikacin MIC	Moderate	
+MIN_rrl	rrl	2137	A	A	T	Linezolid		Altered 23S rRNA affecting linezolid ribosomal binding	Low	
+MIN_rplD	rplD	148	AGG	R	K	Linezolid		Arg148Lys substitution in ribosomal protein L4 potentially affecting linezolid binding	Low	
+MIN_rrl	rrl	2268	A	A	T	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate	
+MIN_rrs	rrs	87	T	T	C	Amikacin		Potential alteration in 16S rRNA associated with reduced aminoglycoside binding	Moderate	
+MIN_rrs	rrs	192	T	T	C	Amikacin		Potential alteration in 16S rRNA associated with reduced aminoglycoside binding	Moderate	
+MIN_rrs	rrs	197	A	A	T	Amikacin		Potential alteration in 16S rRNA associated with reduced aminoglycoside binding	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		Altered 23S rRNA peptidyltransferase region reduces macrolide binding	Low	
+MIN_rrl	rrl	2268	A	A	C	Clarithromycin		Altered 23S rRNA peptidyltransferase region reduces macrolide binding	Low	
+MIN_rrl	rrl	2268	A	A	T	Clarithromycin		Altered 23S rRNA peptidyltransferase region reduces macrolide binding	Low	
+MIN_gyrA	gyrA	91	GCC	A	A	Ofloxacin, Ciprofloxacin, Levofloxacin, Sparfloxacin, Pefloxacin, Nalidixic acid, Flumequine		Altered GyrA QRDR residue decreases quinolone susceptibility	Moderate	
+MIN_rrl	rrl	2269	A	A	C	Clarithromycin		23S rRNA modification impairs macrolide binding	Moderate	
+MIN_atpE	atpE	47	GGT	G	G	Bedaquiline		Synonymous mutation with no amino acid alteration	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MIN_rrl	rrl	2268	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MIN_rrl	rrl	2268	A	A	T	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate	
+MIN_rpsL	rpsL	88	AAG	K	R	Amikacin, Streptomycin		Altered ribosomal protein S12 affecting aminoglycoside binding	Moderate	
+MIN_rsmG	rsmG	156	GCG	A	A	Amikacin, Streptomycin		Loss/modification of 16S rRNA methyltransferase activity	Moderate	
+MIN_gyrA	gyrA	222	AGG	R	K	Moxifloxacin		Not associated with moxifloxacin resistance	Moderate	
+MIN_gyrB	gyrB	594	GAA	E	D	Moxifloxacin		Not associated with moxifloxacin resistance	Moderate	
+MIN_gyrB	gyrB	167	AAG	K	Q	Moxifloxacin		Not associated with moxifloxacin resistance	Moderate	
+MIN_rrs	rrs	1397	A	A	G	Amikacin		16S rRNA aminoglycoside binding-site alteration	Low	
+MIN_rrl	rrl	2268	A	A	C	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		23S rRNA mutation conferring macrolide resistance	Moderate	
+MIN_rrl	rrl	2269	A	A	C	Clarithromycin		23S rRNA mutation conferring acquired macrolide resistance	Low	
+MIN_rrl	rrl	2269	A	A	G	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate	
+MIN_rrl	rrl	2269	A	A	G	Clarithromycin		Altered ribosomal macrolide binding site	Moderate	
+MIN_rrl	rrl	2268	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate	
+MIN_rrs	rrs	250	T	T	A	Amikacin		Altered aminoglycoside target binding	Moderate	
+MIN_rrs	rrs	1453	G	G	T	Amikacin		Altered aminoglycoside target binding	Moderate	
+MIN_gyrB	gyrB	522	ACC	T	A	Moxifloxacin		Altered DNA gyrase target	Moderate	
+MIN_rrl	rrl	2268	A	A	T	Clarithromycin, Azithromycin, Roxithromycin, Erythromycin		Altered 23S rRNA reducing macrolide binding	Low	
+MIN_rrs	rrs	1480	G	G	T	Amikacin		Altered aminoglycoside binding site	Moderate	
+MIN_mmpT5	mmpT5	46	GTC	V	G	Bedaquiline		Putative altered TetR-family transcriptional regulator	Moderate	
+MIN_mmpT5	mmpT5	23	GCC	A	P	Bedaquiline		Altered TetR-family regulator activity	Moderate	
+MIN_mmpT5	mmpT5	162	GCG	A	P	Bedaquiline		Altered transcriptional regulator function	Moderate	
+MIN_mmpT5	mmpT5	19	ATC	I	S	Bedaquiline		Predicted altered DNA-binding domain	Moderate	
+MIN_atpE	atpE	63	CCG	A	P	Bedaquiline		Altered ATP synthase subunit c drug target	Moderate	
+MIN_marR	marR	144	C	C	A	Clofazimine		Premature truncation of MarR regulator	Moderate	
+MIN_ssuD	ssuD	67	C	C	A	Clofazimine		Putative oxidoreductase-associated resistance mechanism	Moderate	
+MIN_MASE1	MASE1_domain_protein	62	C	C	G	Clofazimine		Putative membrane signaling/regulatory alteration	Moderate	
+#Indels										
+#Gene_id	Gene_name	Nuc_pos	-	Mut_type	Insert/deletion	Drug	Pmid	Mechanism	Notes	
+MIN_mtrB	mtrB	661	GTGCTGCTG	GTGCTGCTG	GTGCTGCTG	Amikacin; Streptomycin		Two-component regulatory system alteration	Moderate	
+MIN_mmpT5	mmpT5	196	-	ins	C	Bedaquiline		Predicted derepression of mmpS5-mmpL5 efflux operon	Moderate	
+MIN_mmpT5	mmpT5	311	-	ins	C	Bedaquiline		Likely complete loss of regulator function	Moderate	
+MIN_LppI	lppI	207	-	del	C	Clofazimine		Putative membrane lipoprotein/cell wall integrity mechanism	Moderate	
+MIN_GMC_oxidoreductase	GMC_oxidoreductase	157	-	del	G	Clofazimine		Putative oxidoreductase-associated mechanism	Moderate	
+MIN_PPE	PPE_family_protein	222	-	del	C	Clofazimine		Putative cell-envelope-associated resistance mechanism	Moderate	
