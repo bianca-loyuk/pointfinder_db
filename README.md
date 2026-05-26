@@ -6,9 +6,11 @@ chromosomal point mutations.
 
 ## Content of the repository
 - [x] Add *Mycobacterium abscessus* db
-- [ ] Add *Mycobacterium avium* db
+- [x] Add *Mycobacterium avium* db
 - [ ] Add *Mycobacterium fortuitum* db
 - [x] Add *Mycobacterium kansasii* db
+- [x] Add *Mycobacterium marinum* db
+- [x] Add *Mycobacterium intracellulare* db
 
 ## Installation
 Clone the database
