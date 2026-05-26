@@ -1,0 +1,129 @@
+#Gene_ID	Gene_name	Codon_pos	Ref_nuc	Ref_codon	Res_codon	Resistance	PMID	Mechanism	Notes	Required_mut
+MAV_rpoB	rpoB	544	GGC	G	D	Rifampicin		putative alteration of RNA polymerase β subunit associated with rifampicin resistance	Moderate
+MAV_rpoB	rpoB	445	CAC	H	Y	Rifampicin		alteration of rifampicin-binding region of RNA polymerase β subunit	Low
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase center reduces macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Alteration of 23S rRNA peptidyl transferase center reduces macrolide binding	Low
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Reduced macrolide binding to 23S rRNA	Low
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Reduced macrolide binding to 23S rRNA	Low
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Low
+MAV_rrl	rrl	2812	G	G	A	Linezolid		Altered 23S rRNA peptidyl transferase center reducing linezolid binding	Low
+MAV_rplD	rplD	439	A	A	G	Linezolid		Thr147Ala substitution in ribosomal protein L4 potentially altering oxazolidinone interaction	Moderate
+MAV_rrl	rrl	2571	A	A	G	Linezolid		Potential alteration of 23S rRNA target site	Moderate
+MAV_rrl	rrl	2801	G	G	A	Linezolid		Potential alteration of 23S rRNA target site	Moderate
+MAV_rpoB	rpoB	545	AAG	K	T	Rifampicin		Altered RNA polymerase beta subunit reducing rifampicin binding	Moderate
+MAV_rpoB	rpoB	465	GAG	E	E	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	469	GTG	V	V	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	475	GGC	G	G	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	484	GAG	E	E	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	485	GGT	G	G	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	486	CCC	P	P	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	497	TAC	Y	Y	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	499	CGG	R	R	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_rpoB	rpoB	500	GTC	V	V	Rifampicin		Silent mutation in RNA polymerase beta subunit	Moderate
+MAV_gyrA	gyrA	91	GCC	A	V	Ofloxacin		Alteration of DNA gyrase quinolone resistance-determining region reducing quinolone binding	Low
+MAV_rrs	rrs	1397	A	A	G	Amikacin		16S rRNA target modification reducing aminoglycoside binding	Moderate
+MAV_rrs	rrs	1482	G	G	T	Amikacin		16S rRNA target modification reducing aminoglycoside binding	Low
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate
+MAV_rrl	rrl	215	A	A	G	Clarithromycin		Potential alteration in 23S rRNA associated with clarithromycin resistance	Moderate
+MAV_rrl	rrl	1687	C	C	T	Clarithromycin		Potential alteration in 23S rRNA associated with clarithromycin resistance	Moderate
+MAV_rrl	rrl	288	T	T	C	Clarithromycin		Potential alteration in 23S rRNA associated with clarithromycin resistance	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Low
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Alteration of 23S rRNA peptidyl transferase region reducing macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	T	Azithromycin		Altered 23S rRNA peptidyltransferase region reduces macrolide binding	Low
+MAV_rrl	rrl	2270	A	A	C	Azithromycin		Altered 23S rRNA peptidyltransferase region reduces macrolide binding	Low
+MAV_gyrA	gyrA	91	GCC	A	A	Ofloxacin, Ciprofloxacin, Levofloxacin, Sparfloxacin, Pefloxacin, Nalidixic acid, Flumequine		Altered GyrA QRDR residue decreases quinolone susceptibility	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		23S rRNA target modification reducing macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		23S rRNA target modification reducing macrolide binding	Low
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		23S rRNA target modification reducing macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Heteroresistant subpopulation carrying 23S rRNA resistance mutation	Moderate
+MAV_rrs	rrs	1397	A	A	G	Amikacin		Constitutive aminoglycoside resistance via ribosomal target modification	Moderate
+MAV_rrl	rrl	2269	A	A	C,G	Clarithromycin		Constitutive macrolide resistance through altered 23S rRNA binding site	Moderate
+MAV_rrl	rrl	2270	A	A	C,G	Clarithromycin		Constitutive macrolide resistance through altered ribosomal drug binding	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		23S rRNA target alteration prevents macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		23S rRNA target alteration reduces macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		23S rRNA modification impairs macrolide binding	Moderate
+MAV_rrs	rrs	1397	A	A	G	Amikacin		16S rRNA modification decreases aminoglycoside binding	Moderate
+MAV_rrl	rrl	2268	A	A	C	Clarithromycin		23S rRNA alteration associated with reduced macrolide binding	Low
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		23S rRNA alteration reducing macrolide binding	Low
+MAV_atpE	atpE	62	GCG	A	V	Bedaquiline		Synonymous mutation with no amino acid alteration	Moderate
+MAV_atpE	atpE	62	GCG	A	V	Bedaquiline		Synonymous mutation with no amino acid alteration	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding site	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	T	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Mutation in domain V of 23S rRNA linked to macrolide binding disruption	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Mutation in 23S rRNA associated with macrolide resistance	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Mutation in 23S rRNA conferring reduced macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Mutation in 23S rRNA domain V linked to resistance	Moderate
+MAV_rrl	rrl	2270	A	A	T	Clarithromycin		Alternative 23S rRNA resistance mutation	Low
+MAV_rrs	rrs	1397	A	A	G	Amikacin		16S rRNA aminoglycoside binding-site alteration	Low
+MAV_rrs	rrs	1395	T	T	A	Amikacin		Heterogeneous population with elevated MIC	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		23S rRNA mutation causing acquired macrolide resistance	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		23S rRNA mutation conferring macrolide resistance	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		23S rRNA mutation conferring acquired macrolide resistance	Moderate
+MAV_gyrA	gyrA	10	GGT	G	D	Ofloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin, Sparfloxacin		DNA gyrase A alteration potentially affecting quinolone binding	Moderate
+MAV_gyrA	gyrA	12	GCC	A	S	Fluoroquinolone		DNA gyrase alteration linked to quinolone resistance	Moderate
+MAV_gyrA	gyrA	13	GCC	A	V	Fluoroquinolone		DNA gyrase mutation potentially reducing drug binding	Moderate
+MAV_gyrA	gyrA	16	GTC	V	I	Fluoroquinolone		Proposed hotspot mutation in gyrA	Moderate
+MAV_gyrA	gyrA	17	GAA	Q	Q	Fluoroquinolone		Potential gyrA hotspot associated with resistance	Moderate
+MAV_gyrB	gyrB	408	ATT	I	V	Fluoroquinolone		DNA gyrase B mutation potentially associated with resistance	Moderate
+MAV_gyrB	gyrB	408	ATT	I	M	Fluoroquinolone		gyrB mutation proposed to contribute to resistance	Moderate
+MAV_gyrB	gyrB	521	ATC	I	L	Fluoroquinolone		gyrB alteration associated with resistant phenotype	Moderate
+MAV_rpsL	rpsL	306	G	G	C	Streptomycin, Aminoglycosides		S12 ribosomal protein alteration potentially linked to aminoglycoside resistance	Moderate
+MAV_rpsL	rpsL	300	C	C	T	Streptomycin, Aminoglycosides		S12 ribosomal protein mutation associated with resistance	Moderate
+MAV_rpsL	rpsL	279	G	G	C	Streptomycin, Aminoglycosides		S12 ribosomal protein alteration associated with resistant phenotype	Moderate
+MAV_gyrA	gyrA	91	GCC	A	V	WQ-3810, ciprofloxacin, levofloxacin, moxifloxacin		Altered DNA gyrase quinolone binding	Low
+MAV_gyrA	gyrA	95	GAC	D	A	WQ-3810, ciprofloxacin, levofloxacin, moxifloxacin		Reduced quinolone binding to DNA gyrase	Low
+MAV_gyrA	gyrA	95	GAC	D	G	WQ-3810, ciprofloxacin, levofloxacin, moxifloxacin		QRDR mutation decreasing quinolone binding	Moderate
+MAV_gyrA	gyrA	95	GAC	D	Y	WQ-3810, ciprofloxacin, levofloxacin, moxifloxacin		Hydrophobic substitution disrupts FQ binding	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Altered ribosomal drug binding	Low
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Reduced macrolide binding to ribosome	Low
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Altered macrolide ribosomal binding site	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Altered macrolide ribosomal binding site	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Altered macrolide ribosomal binding site	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Altered macrolide ribosomal binding site	Moderate
+MAV_rrs	rrs	1397	A	A	G	Amikacin		Altered aminoglycoside ribosomal binding	Moderate
+MAV_embB	embB	589	GGC	G	R	Ethambutol		Altered arabinosyltransferase target	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Altered macrolide ribosomal binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Altered macrolide ribosomal binding	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Altered ribosomal drug binding	Moderate
+MAV_rrl	rrl	2269	A	A	C	Clarithromycin		Reduced macrolide binding	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Reduced ribosomal affinity for macrolides	Moderate
+MAV_rrl	rrl	2269	A	A	T	Clarithromycin		Altered 23S rRNA drug interaction	Moderate
+MAV_rrl	rrl	2270	A	A	T	Clarithromycin		Altered macrolide target binding	Moderate
+MAV_gyrA	gyrA	96	ACC	T	S	Moxifloxacin		Possible natural polymorphism	Moderate
+MAV_gyrB	gyrB	522	ACC	T	T	Moxifloxacin		Natural polymorphism in GyrB	Moderate
+MAV_rrl	rrl	2274	A	A	C	Clarithromycin, Azithromycin		Altered 23S rRNA macrolide binding	Moderate
+MAV_rrl	rrl	2274	A	A	G	Clarithromycin, Azithromycin		Altered ribosomal macrolide binding	Moderate
+MAV_rrl	rrl	2274	A	A	T	Clarithromycin, Azithromycin		Disrupted macrolide-rRNA interaction	Moderate
+MAV_rrl	rrl	2269	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate
+MAV_rrl	rrl	2270	A	A	C	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate
+MAV_rrl	rrl	2270	A	A	G	Clarithromycin		Reduced macrolide binding to 23S rRNA	Moderate
+MAV_ubiA	ubiA	38	GCG	A	E	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	41	GCG	A	P	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	42	GCG	A	P	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	179	TTC	F	L	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	252	GTG	V	L	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	57	AAG	K	Q	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_ubiA	ubiA	256	GTC	V	V	Ethambutol		Altered DPPR synthase increasing DPA precursor supply	Moderate
+MAV_rrs	rrs	1397	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding site	Moderate
+MAV_rrs	rrs	1398	C	C	T	Amikacin		Altered aminoglycoside binding site	Moderate
+MAV_rrs	rrs	1482	G	G	C	Amikacin		Altered aminoglycoside binding site	Moderate
+MAV_rrs	rrs	1487	C	C	T	Amikacin		Potential altered aminoglycoside binding site	Moderate
+MAV_rpoB	rpoB	427	ACC	T	I	Rifampicin		Altered RNA polymerase beta-subunit drug binding site	Moderate
+MAV_rpoB	rpoB	452	CTG	L	P	Rifampicin		Altered RNA polymerase beta-subunit drug binding	Low
+MAV_rpoB	rpoB	733	AAC	N	H	Rifampicin		Possible altered downstream beta-subunit structure	Moderate
+MAV_rrs	rrs	1397	A	A	G	Amikacin		Altered 16S rRNA aminoglycoside binding site	Moderate
